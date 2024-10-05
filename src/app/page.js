@@ -18,7 +18,7 @@ export default function Home() {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device=width, initial-scale=1" />
       </Head>
-      <div className="container px-4 py-5 mx-auto w-full">
+      <div className="container px-4 py-5 mx-auto w-1/2">
         <div className="flex-row-reverse flex items-center gap-10 justify-center">
           <div className="items-center">
             <img src="https://kffhealthnews.org/wp-content/uploads/sites/2/2024/08/trump-harris-pharma-side-by-side.jpg" className="" width="400" height="275" />
@@ -36,7 +36,7 @@ export default function Home() {
             <p className=""></p>
           </div>
         </div>
-        <footer className="flex flex-row w-full justify-between">
+        <footer className="flex flex-row w-full justify-between ">
           <p>
             &copy; 2024 BetCandidate, Inc
           </p>
